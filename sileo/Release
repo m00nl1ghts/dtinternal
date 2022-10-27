@@ -1,8 +1,8 @@
-Origin: repo.cf
-Label: repo.cf
+Origin: whitesn0w repo
+Label: whitesn0w repo
 Suite: stable
 Version: 1.0
 Codename: repocf
 Architectures: iphoneos-arm
 Components: main
-Description: repo.cf
+Description: whitesn0w's repository
