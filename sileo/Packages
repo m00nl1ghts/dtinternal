@@ -14,18 +14,24 @@ Name: BytaFontLegacyTM
 Author: H6nry <henry.anonym@gmail.com>
 Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
-Package: org.saurik.cydia
-Version: 1.1.36-3
+Package: cydia
+Priority: important
 Section: Utilities
-Maintainer: Genesis (genesis@fbi.ac)
-Depends: bzip2, xz-utils, zstd, uikittools
-Provides: com.saurik.cydia
+Maintainer: Genesis <genesis@fbi.ac>
 Architecture: iphoneos-arm
-Filename: Files/cydia/cydia_1.1.36-3_iphoneos-arm.deb
-Size: 1214
-Description: ONLY INSTALL THIS USING ZEBRA. SILEO WILL FAIL. GET ZEBRA FROM "getzbra.com/repo". THIS IS DUE TO A MD5 CHECKSUM ERROR CURRENTLY UNSOLVED.
-Name: Procursus Cydia Installer (install with Zebra)
-Author: saurik
+Version: 1.1.36-3
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
+Provides: bigbossbetarepo, cydia-sources, cydia-lproj
+Description: graphical iPhone front-end for APT
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Tag: purpose::uikit, role::enduser
+Installed-Size: 6496
 
 Package: org.h6nry.classiclockcydget
 Version: 4.0
