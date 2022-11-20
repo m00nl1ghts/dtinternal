@@ -15,7 +15,7 @@ Author: H6nry <henry.anonym@gmail.com>
 Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
 Package: org.saurik.cydia
-Version: 1.1.36-3
+Version: 1.1.37-0
 Section: Utilities
 Maintainer: Genesis (genesis@fbi.ac)
 Depends: bzip2, xz-utils, zstd, uikittools
@@ -25,7 +25,7 @@ Filename: Files/cydia/cydia_1.1.36-3_iphoneos-arm.deb
 Size: 1214
 MD5sum: ced0d3a70d452b19db8d6860b14ddf39
 Description: An awesome mobilesubstrate tweak!
-Name: Procursus Cydia Installer
+Name: Procursus Cydia Installer (install with Zebra)
 Author: saurik
 
 Package: org.h6nry.classiclockcydget
