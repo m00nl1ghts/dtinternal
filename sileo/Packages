@@ -23,7 +23,7 @@ Provides: com.saurik.cydia
 Architecture: iphoneos-arm
 Filename: Files/cydia/cydia_1.1.36-3_iphoneos-arm.deb
 Size: 1214
-MD5sum: *
+MD5sum: f55218a68a1f0ac9966bd40d8cc5ee67
 Description: ONLY INSTALL THIS USING ZEBRA. SILEO WILL FAIL. GET ZEBRA FROM "getzbra.com/repo". THIS IS DUE TO A MD5 CHECKSUM ERROR CURRENTLY UNSOLVED.
 Name: Procursus Cydia Installer (install with Zebra)
 Author: saurik
