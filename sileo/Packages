@@ -38,7 +38,7 @@ Priority: important
 Section: Packaging
 Name: Installer
 Version: 5.1-85
-Filename: Files/installer/installer.deb
+Filename: Files/installer/me.apptapp.installer_51rc1-iphoneos-arm.deb
 Author: AppTapp
 Maintainer: Genesis <genesis@fbi.ac>
 Description: The package manager you deserve! (read depiction before use)
@@ -52,7 +52,7 @@ Priority: important
 Section: Packaging
 Name: Zebra
 Version: 1.1.28
-Filename: Files/zebra/zebra.deb
+Filename: Files/zebra/xyz.willy.zebra_1.1.28_iphoneos-arm.deb
 Author: Zebra Team
 Maintainer: Genesis <genesis@fbi.ac>
 Description: A Useful Package Manager
@@ -66,7 +66,7 @@ Priority: important
 Section: Packaging
 Name: Saily
 Version: 14114
-Filename: Files/saily/saily.deb
+Filename: Files/saily/wiki.qaq.chromatic_14114_iphoneos-arm.deb
 Author: Saily Team
 Maintainer: Genesis <genesis@fbi.ac>
 Description: Modern. Fast. Beautiful.
