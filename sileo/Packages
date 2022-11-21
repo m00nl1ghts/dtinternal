@@ -30,7 +30,7 @@ Description: graphical iPhone front-end for APT (read depiction before use)
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction2: http://cydia.saurik.com/info/cydia/
-Depiction: Files/cydia/index.html
+Depiction: https://repo.cf/sileo/Files/cydia/index.html
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Tag: purpose::uikit, role::enduser
 Installed-Size: 6496
@@ -58,7 +58,7 @@ Filename: Files/installer/installer.deb
 Author: AppTapp
 Maintainer: Genesis <genesis@fbi.ac>
 Description: The package manager you deserve! (read depiction before use)
-Depiction: Files/installer/index.html
+Depiction: https://repo.cf/sileo/Files/installer/index.html
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0)
 Icon: https://upload.wikimedia.org/wikipedia/commons/5/52/InstallerLogoLarge.png
