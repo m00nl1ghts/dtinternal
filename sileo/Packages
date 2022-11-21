@@ -26,7 +26,7 @@ Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmd
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
-Description: graphical iPhone front-end for APT (fixed for sileo hopefully)
+Description: graphical iPhone front-end for APT 
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
@@ -56,7 +56,7 @@ Version: 5.1-85
 Filename: Files/installer/installer.deb
 Author: AppTapp
 Maintainer: Genesis <genesis@fbi.ac>
-Description: The package manager you deserve! (fixed for sileo hopefully)
+Description: The package manager you deserve! 
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0)
 Icon: https://upload.wikimedia.org/wikipedia/commons/5/52/InstallerLogoLarge.png
