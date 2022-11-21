@@ -72,7 +72,7 @@ Maintainer: Genesis <genesis@fbi.ac>
 Description: Modern. Fast. Beautiful.
 Architecture: iphoneos-arm
 Pre-depends: firmware (>= 13.0), dpkg, uikittools, apt
-Icon: https://api.ios-repo-updates.com/image.php?url=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fwiki.qaq.chromatic.png&size=60x60&format=webp
+Icon: https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg
 Installed-Size: 14484
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
 
