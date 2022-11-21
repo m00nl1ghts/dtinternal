@@ -37,7 +37,7 @@ Installed-Size: 6496
 Package: org.coolstar.sileo
 Priority: important
 Section: Packaging
-Name: Sileo Installer
+Name: Sileo
 Version: 2.3-1
 Filename: Files/sileo/org.coolstar.sileo_2.3-1_iphoneos-arm.deb
 Author: Sileo Team <getsileoapp@gmail.com>
@@ -64,7 +64,7 @@ Icon: https://upload.wikimedia.org/wikipedia/commons/5/52/InstallerLogoLarge.png
 Package: xyz.willy.zebra
 Priority: important
 Section: Packaging
-Name: Zebra Installer
+Name: Zebra
 Version: 1.1.28
 Filename: Files/zebra/zebra.deb
 Author: Zebra Team
