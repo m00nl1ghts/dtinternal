@@ -16,7 +16,7 @@ Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
 Package: cydia
 Priority: important
-Section: Utilities
+Section: Packaging
 Maintainer: Genesis <genesis@fbi.ac>
 Architecture: iphoneos-arm
 Filename: Files/cydia/cydia_1.1.36-3_iphoneos-arm.deb
@@ -35,7 +35,9 @@ Tag: purpose::uikit, role::enduser
 Installed-Size: 6496
 
 Package: org.coolstar.sileo
-Name: Sileo
+Priority: important
+Section: Packaging
+Name: Sileo Installer
 Version: 2.3-1
 Filename: Files/sileo/org.coolstar.sileo_2.3-1_iphoneos-arm.deb
 Author: Sileo Team <getsileoapp@gmail.com>
