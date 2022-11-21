@@ -48,7 +48,7 @@ Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), c
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
-Package: me.apptapp.installer
+Package: org.apptapp.installer
 Priority: important
 Section: Package Managers/APT Front-Ends
 Name: Installer
