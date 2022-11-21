@@ -14,7 +14,7 @@ Name: BytaFontLegacyTM
 Author: H6nry <henry.anonym@gmail.com>
 Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
-Package: org.saurik.cydia
+Package: cydia
 Priority: important
 Section: Packaging
 Maintainer: Genesis <genesis@fbi.ac>
@@ -48,7 +48,7 @@ Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), c
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
-Package: org.apptapp.installer
+Package: me.apptapp.installer
 Priority: important
 Section: Packaging
 Name: Installer
