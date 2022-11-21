@@ -50,7 +50,7 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: org.apptapp.installer
 Priority: important
-Section: Package Managers/APT Front-Ends
+Section: Package Managers/APT Front-ends
 Name: Installer
 Version: 5.1-85
 Filename: Files/installer/installer.deb
@@ -63,7 +63,7 @@ Icon: https://upload.wikimedia.org/wikipedia/commons/5/52/InstallerLogoLarge.png
 
 Package: xyz.willy.zebra
 Priority: important
-Section: Package Managers/APT Front-Ends
+Section: Package Managers/APT Front-ends
 Name: Zebra Installer
 Version: 1.1.28
 Filename: Files/zebra/zebra.deb
