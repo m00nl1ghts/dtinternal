@@ -34,6 +34,20 @@ Icon: file:///Applications/Cydia.app/Icon-60.png
 Tag: purpose::uikit, role::enduser
 Installed-Size: 6496
 
+Package: org.coolstar.sileo
+Name: Sileo
+Version: 2.3-1
+Filename: Files/sileo/org.coolstar.sileo_2.3-1_iphoneos-arm.deb
+Author: Sileo Team <getsileoapp@gmail.com>
+Maintainer: Genesis <genesis@fbi.ac>
+Description: A modern APT package manager frontend
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Section: Packaging
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+
 Package: org.h6nry.classiclockcydget
 Version: 4.0
 Priority: optional
