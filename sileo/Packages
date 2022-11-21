@@ -60,3 +60,15 @@ Architecture: iphoneos-arm
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Icon: https://media.idownloadblog.com/wp-content/uploads/2022/02/zebra-dark-1024.png
 Installed-Size: 14484
+
+Package: null
+Priority: important
+Section: More tweaks upcoming soon!
+Name: null
+Version: 1.1.28
+Filename: Files/
+Author: null
+Maintainer: Genesis <genesis@fbi.ac>
+Description: null
+Architecture: iphoneos-arm
+Depends: null
