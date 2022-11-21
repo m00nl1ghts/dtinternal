@@ -61,8 +61,22 @@ Depends: dpkg, uikittools, firmware (>= 9.0)
 Icon: https://media.idownloadblog.com/wp-content/uploads/2022/02/zebra-dark-1024.png
 Installed-Size: 14484
 
+Package: wiki.qaq.chromatic
+Priority: important
+Section: Packaging
+Name: Saily
+Version: 14114
+Filename: Files/saily/saily.deb
+Author: Saily Team
+Maintainer: Genesis <genesis@fbi.ac>
+Description: Modern. Fast. Beautiful.
+Architecture: iphoneos-arm
+Pre-depends: firmware (>= 13.0), dpkg, uikittools, apt
+Icon: https://api.ios-repo-updates.com/image.php?url=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fwiki.qaq.chromatic.png&size=60x60&format=webp
+Installed-Size: 14484
+
 Package: null
-Section: More tweaks upcoming soon!
+Section: More packages upcoming soon!
 Name: null
 Version: null
 Filename: null
