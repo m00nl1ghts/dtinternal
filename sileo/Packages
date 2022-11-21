@@ -14,7 +14,7 @@ Name: BytaFontLegacyTM
 Author: H6nry <henry.anonym@gmail.com>
 Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
-Package: cydia
+Package: org.saurik.cydia
 Priority: important
 Section: Package Managers/APT Front-Ends
 Maintainer: Genesis <genesis@fbi.ac>
@@ -27,7 +27,7 @@ Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydi
 Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Description: graphical iPhone front-end for APT
-Name: Procursus Cydia Installer
+Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
