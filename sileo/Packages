@@ -62,13 +62,12 @@ Icon: https://media.idownloadblog.com/wp-content/uploads/2022/02/zebra-dark-1024
 Installed-Size: 14484
 
 Package: null
-Priority: important
 Section: More tweaks upcoming soon!
 Name: null
-Version: 1.1.28
-Filename: Files/
+Version: null
+Filename: null
 Author: null
-Maintainer: Genesis <genesis@fbi.ac>
+Maintainer: null
 Description: null
-Architecture: iphoneos-arm
+Architecture: null
 Depends: null
