@@ -45,9 +45,21 @@ Maintainer: Genesis <genesis@fbi.ac>
 Description: A modern APT package manager frontend
 Architecture: iphoneos-arm
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
-Section: Packaging
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: me.apptapp.installer
+Priority: important
+Section: Package Installers/APT Front-Ends
+Name: Installer
+Version: 2.3-1
+Filename: Files/installer/installer.deb
+Author: NULL
+Maintainer: Genesis <genesis@fbi.ac>
+Description: The package manager you deserve!
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Icon: https://api.ios-repo-updates.com/image.php?url=https%3A%2F%2Fapptapp.me%2Frepo%2Fbanner.png&size=365x200&format=webp
 
 
 Package: org.h6nry.classiclockcydget
