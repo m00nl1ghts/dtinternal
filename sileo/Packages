@@ -16,7 +16,7 @@ Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
 Package: cydia
 Priority: important
-Section: Package Installers/APT Front-Ends
+Section: Package Managers/APT Front-Ends
 Maintainer: Genesis <genesis@fbi.ac>
 Architecture: iphoneos-arm
 Filename: Files/cydia/cydia_1.1.36-3_iphoneos-arm.deb
@@ -36,7 +36,7 @@ Installed-Size: 6496
 
 Package: org.coolstar.sileo
 Priority: important
-Section: Package Installers/APT Front-Ends
+Section: Package Managers/APT Front-Ends
 Name: Sileo Installer
 Version: 2.3-1
 Filename: Files/sileo/org.coolstar.sileo_2.3-1_iphoneos-arm.deb
@@ -50,16 +50,30 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: me.apptapp.installer
 Priority: important
-Section: Package Installers/APT Front-Ends
+Section: Package Managers/APT Front-Ends
 Name: Installer
-Version: 2.3-1
+Version: 5.1-85
 Filename: Files/installer/installer.deb
 Author: AppTapp
 Maintainer: Genesis <genesis@fbi.ac>
 Description: The package manager you deserve!
 Architecture: iphoneos-arm
-Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Depends: firmware (>= 13.0)
 Icon: https://upload.wikimedia.org/wikipedia/commons/5/52/InstallerLogoLarge.png
+
+Package: xyz.willy.zebra
+Priority: important
+Section: Package Managers/APT Front-Ends
+Name: Zebra Installer
+Version: 1.1.28
+Filename: Files/zebra/zebra.deb
+Author: Zebra Team
+Maintainer: Genesis <genesis@fbi.ac>
+Description: A Useful Package Manager
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Icon: https://media.idownloadblog.com/wp-content/uploads/2022/02/zebra-dark-1024.png
+Installed-Size: 14484
 
 Package: org.h6nry.classiclockcydget
 Version: 4.0
