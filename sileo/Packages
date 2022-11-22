@@ -77,6 +77,17 @@ Installed-Size: 14484
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
 
 Package: null
+Section: SOME PACKAGES MAY FAIL INSTALL VIA SILEO. USE ZEBRA INSTEAD.
+Name: null
+Version: null
+Filename: null
+Author: null
+Maintainer: null
+Description: null
+Architecture: null
+Depends: null
+
+Package: null
 Section: More packages upcoming soon!
 Name: null
 Version: null
