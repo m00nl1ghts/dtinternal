@@ -76,16 +76,16 @@ Icon: https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.
 Installed-Size: 14484
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
 
-Package: null
+Package: org.azreal.warning
 Section: Read name of the PKG in this 
 Name: Some PKGs fail an install via Sileo. Use Zebra Instead.
-Version: null
-Filename: null
-Author: null
-Maintainer: null
-Description: null
-Architecture: null
-Depends: null
+Version: 3.0
+Filename: /
+Author: Azreal
+Maintainer: Azreal
+Description: Some PKGs fail an install via Sileo. Use Zebra Instead.
+Architecture: iphoneos-arm
+Depends: firmware (>= 16.0)
 
 Package: null
 Section: More packages upcoming soon!
