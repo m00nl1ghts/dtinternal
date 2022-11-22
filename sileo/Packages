@@ -96,7 +96,7 @@ Version: 2.3
 Filename: Files/icyinstaller/com.weamdev.icy_2.3.deb
 Author: WeAmDev
 Maintainer: Genesis <genesis@fbi.ac>
-Description: Modern. Fast. Beautiful.
+Description: Faster dpkg-based Installer
 Architecture: iphoneos-arm
 Icon: https://www.theiphonewiki.com/w/images/thumb/5/56/IcyIcon.png/256px-IcyIcon.png
 Installed-Size: Unknown
