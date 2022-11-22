@@ -88,10 +88,23 @@ Description: Some PKGs fail an install via Sileo. Use Zebra Instead.
 Architecture: iphoneos-arm
 Depends: firmware (>= 1.0)
 
+Package: com.yourepo.artikushg.IcyInstaller3
+Priority: important
+Section: Packaging
+Name: Icy (YouRepo) 
+Version: 3.3
+Size: 361196
+Filename: Files/icyinstaller/Icy.deb
+Author: ArtikusHG
+Maintainer: Genesis <genesis@fbi.ac>
+Description: Icy is a lightweight DPKG-based package manager for iOS.
+Architecture: iphoneos-arm
+Icon: https://api.ios-repo-updates.com/image.php?url=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fsections%2Fusers%2F19.png&size=60x60&
+
 Package: com.artikushg.IcyInstaller3
 Priority: important
 Section: Packaging
-Name: Icy 
+Name: Icy (ArkitusHG) 
 Version: 3.3
 Size: 361196
 Filename: Files/icyinstaller/Icy.deb
