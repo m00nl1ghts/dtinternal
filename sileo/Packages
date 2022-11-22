@@ -77,9 +77,9 @@ Installed-Size: 14484
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
 
 Package: org.azreal.warning
-Section: Read name of the PKG in this 
+Section: Reason for install error on Sileo. 
 Name: Some PKGs fail an install via Sileo. Use Zebra Instead.
-Version: 3.0
+Version: 4.0
 Filename: /
 Author: Azreal
 Maintainer: Azreal
