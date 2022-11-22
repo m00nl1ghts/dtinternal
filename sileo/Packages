@@ -65,15 +65,15 @@ Package: wiki.qaq.chromatic
 Priority: important
 Section: Packaging
 Name: Saily
-Version: 14114
-Filename: Files/saily/wiki.qaq.chromatic_14114_iphoneos-arm.deb
+Version: 2.1-REL-1654050540
+Filename: Files/saily/saily_2.1-REL-1654050540.deb
 Author: Saily Team
 Maintainer: Genesis <genesis@fbi.ac>
 Description: Modern. Fast. Beautiful.
 Architecture: iphoneos-arm
 Pre-depends: firmware (>= 13.0), dpkg, uikittools, apt
 Icon: https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg
-Installed-Size: 14484
+Installed-Size: 14114
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
 
 Package: org.azreal.warning
