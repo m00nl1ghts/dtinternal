@@ -77,8 +77,8 @@ Installed-Size: 14484
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
 
 Package: null
-Section: Read name of pkg in this 
-Name: Some Packages may not install via Sileo. Use Zebra instead.
+Section: Read name of the PKG in this 
+Name: Some PKGs fail an install via Sileo. Use Zebra Instead.
 Version: null
 Filename: null
 Author: null
