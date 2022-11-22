@@ -85,7 +85,7 @@ Author: Azreal
 Maintainer: Azreal
 Description: Some PKGs fail an install via Sileo. Use Zebra Instead.
 Architecture: iphoneos-arm
-Depends: firmware (>= 16.0)
+Depends: firmware (<= 1.0)
 
 Package: null
 Section: More packages upcoming soon!
