@@ -59,6 +59,7 @@ Description: A Useful Package Manager
 Architecture: iphoneos-arm
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Icon: https://repo.cf/sileo/Files/zebra/zebra.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
 Installed-Size: 14484
 
 Package: wiki.qaq.chromatic
@@ -85,4 +86,4 @@ Author: Azreal
 Maintainer: Azreal
 Description: Some PKGs fail an install via Sileo. Use Zebra Instead.
 Architecture: iphoneos-arm
-Depends: firmware (<= 1.0)
+Depends: firmware (>= 1.0)
