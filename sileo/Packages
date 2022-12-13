@@ -93,9 +93,10 @@ Architecture: iphoneos-arm
 Description: Fake passcode for checkra1n on A11 devices running iOS 14+
 Maintainer: Genesis <genesis@fbi.ac>
 Author: nyuszika7h <nyuszika7h@gmail.com>
+Filename: Files/fakepass/net.cadoth.fakepass_0.1.0_iphoneos-arm.deb
 Section: Tweaks
 Depends: cy+cpu.arm64, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.14)
-Version: 0.1.0-11+debug
+Version: 0.1.0
 Installed-Size: 208
 
 Package: org.azreal.warning
