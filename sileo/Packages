@@ -81,21 +81,30 @@ Package: org.azreal.frcoal
 Section: Tweaks 
 Name: FR Coal
 Version: 1.3.4
-Filename: Files/frcoal/frcoal.deb
+Filename: Files/frcoal/org.azreal.frcoal_1.3.4_iphoneos-arm.deb
 Author: Azreal
-Maintainer: Genesis <@genesis.fbi.ac>
-Description: An awesome Mobile Substrate tweak!
+Maintainer: Genesis <genesis@fbi.ac>
 Architecture: iphoneos-arm
-Depends: org.coolstar.libhooker, com.ex.substitute, mobilesubstrate, com.saurik.substrate.safemode
 Icon: https://images-ext-1.discordapp.net/external/CIjDwNLoXRTAiMA74V6D9jm7pv8MUWuK47rrZWZZ3o4/https/cdn.discordapp.com/emojis/784338955759517696.png
+
+Package: net.cadoth.fakepass
+Name: FakePass
+Architecture: iphoneos-arm
+Description: Fake passcode for checkra1n on A11 devices running iOS 14+
+Maintainer: Genesis <genesis@fbi.ac>
+Author: nyuszika7h <nyuszika7h@gmail.com>
+Section: Tweaks
+Depends: cy+cpu.arm64, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.14)
+Version: 0.1.0-11+debug
+Installed-Size: 208
 
 Package: org.azreal.warning
 Section: Reason for install error on Sileo. 
 Name: Some PKGs fail an install via Sileo. Use Zebra Instead.
 Version: 4.0
-Filename: /
+Filename: Files/frcoal/org.azreal.frcoal_1.3.4_iphoneos-arm.deb
 Author: Azreal
-Maintainer: Azreal
+Maintainer: Genesis <genesis@fbi.ac>
 Description: Some PKGs fail an install via Sileo. Use Zebra Instead.
 Architecture: iphoneos-arm
 Depends: firmware (>= 1.0)
