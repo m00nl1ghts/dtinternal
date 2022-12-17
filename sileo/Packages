@@ -17,7 +17,7 @@ Depiction2: http://cydia.saurik.com/info/cydia/
 Depiction: https://repo.cf/sileo/Files/cydia/index.html
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Tag: purpose::uikit, role::enduser
-Installed-Size: 6496
+Installed-Size: 6496 
 
 Package: org.coolstar.sileo
 Priority: important

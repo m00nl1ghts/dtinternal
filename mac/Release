@@ -1,0 +1,8 @@
+Origin: azreal's funny repo for mac
+Label: azreal's funny repo for mac
+Suite: stable
+Version: 1.5
+Codename: repocf
+Architectures: darwin-amd64
+Components: master
+Description: all your jailbreaking needs

@@ -1,0 +1,35 @@
+Package: cydia
+Priority: important
+Section: Packaging
+Maintainer: Genesis <genesis@fbi.ac>
+Architecture: darwin-amd64
+Filename: Files/cydia/cydia_1.1.36-3_darwin-amd64.deb
+Version: 1.1.36-3
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
+Provides: bigbossbetarepo, cydia-sources, cydia-lproj
+Description: graphical iPhone front-end for APT (read depiction before use)
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction2: http://cydia.saurik.com/info/cydia/
+Depiction: https://repo.cf/sileo/Files/cydia/index.html
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Tag: purpose::uikit, role::enduser
+Installed-Size: 6496 
+
+Package: xyz.willy.zebra
+Priority: important
+Section: Packaging
+Name: Zebra
+Version: 1.1.28
+Filename: Files/zebra/xyz.willy.zebra_1.1.28_darwin-amd64.deb
+Author: Zebra Team
+Maintainer: Genesis <genesis@fbi.ac>
+Description: A Useful Package Manager
+Architecture: darwin-amd64
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Icon: https://repo.cf/sileo/Files/zebra/zebra.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Installed-Size: 14484
