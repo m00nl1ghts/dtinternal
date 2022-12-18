@@ -47,21 +47,6 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 13.0)
 Icon: https://upload.wikimedia.org/wikipedia/commons/5/52/InstallerLogoLarge.png
 
-Package: xyz.willy.zebra
-Priority: important
-Section: Packaging
-Name: Zebra
-Version: 1.1.28
-Filename: Files/zebra/xyz.willy.zebra_1.1.28_iphoneos-arm.deb
-Author: Zebra Team
-Maintainer: Genesis <genesis@fbi.ac>
-Description: A Useful Package Manager
-Architecture: iphoneos-arm
-Depends: dpkg, uikittools, firmware (>= 9.0)
-Icon: https://repo.cf/sileo/Files/zebra/zebra.png
-Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
-Installed-Size: 14484
-
 Package: wiki.qaq.chromatic
 Priority: important
 Section: Packaging
