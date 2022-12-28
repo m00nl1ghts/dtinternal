@@ -1,10 +1,6 @@
-Package: lol
-Section: we moved 
-Name: repo.cf/ios now
-Version: 4.0
-Author: Azreal
-Maintainer: Genesis <genesis@fbi.ac>
-Description: use repo.cf/ios now
+Package: null
+Name: DTINTERNAL TESTING PKG
+Version: 0
 Architecture: iphoneos-arm
-Depends: firmware (>= 1.0)
+Depends: firmware (<= 1.0)
 SileoDepiction: sileodepiction.json
