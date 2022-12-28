@@ -1,0 +1,20 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "headerImage": "https://repo666.ultrasn0w.uk/images/ultrasn0w.png",
+    "tintColor": "#6264D3",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "tabname 1",
+        "views": [
+          {
+            "class": "DepictionHeaderView",
+            "title": "title 1"
+          },
+          // ... more views can be added here.
+        ],
+          // ... more pages can be added here.
+      }
+    ]
+  }
