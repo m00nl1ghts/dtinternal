@@ -7,4 +7,4 @@ Maintainer: Genesis <genesis@fbi.ac>
 Description: use repo.cf/ios now
 Architecture: iphoneos-arm
 Depends: firmware (>= 1.0)
-SileoDepiction: https://repo.dynastic.co/sileo-depiction/68292503631036416/
+SileoDepiction: sileodepiction.json
