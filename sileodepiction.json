@@ -1,20 +1,76 @@
 {
-    "minVersion": "0.4",
-    "class": "DepictionTabView",
-    "headerImage": "https://repo666.ultrasn0w.uk/images/ultrasn0w.png",
-    "tintColor": "#6264D3",
-    "tabs": [
-      {
-        "class": "DepictionStackView",
-        "tabname": "tabname 1",
-        "views": [
-          {
-            "class": "DepictionHeaderView",
-            "title": "title 1"
-          },
-          // ... more views can be added here.
-        ],
-          // ... more pages can be added here.
-      }
-    ]
-  }
+  "minVersion":"0.1",
+  "headerImage":"https://repo666.ultrasn0w.uk/images/ultrasn0w.png",
+  "tintColor":"#7887f7",
+  "tabs":[
+     {
+        "tabname":"Details",
+        "views":[
+           {
+              "title":"Your notifications. At a glance.",
+              "useBoldText":true,
+              "useBottomMargin":false,
+              "class":"DepictionSubheaderView"
+           },
+           {
+              "itemCornerRadius":6,
+              "itemSize":"{160, 346}"
+          
+           },
+           {
+              "markdown":"This is a carrier unlocking tool for the iPhone 4 and lower.",
+              "useSpacing":true,
+              "class":"DepictionMarkdownView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+              "title":"Latest Version",
+              "class":"DepictionHeaderView"
+           },
+           {
+              "title":"Version",
+              "text":"1.2.4",
+              "class":"DepictionTableTextView"
+           },
+           {
+              "title":"Released",
+              "text":"23/6/2009",
+              "class":"DepictionTableTextView"
+           },
+           {
+              "title":"Price",
+              "text":"Free",
+              "class":"DepictionTableTextView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+              "title":"ultrasn0w website",
+              "action":"https://ultrasn0w.ru",
+              "class":"DepictionTableButtonView"
+           },
+           {
+              "spacing":12,
+              "class":"DepictionSpacerView"
+           },
+           {
+              "title":"Developer",
+              "text":"iPhone Dev Team",
+              "class":"DepictionTableTextView"
+           },
+           {
+              "spacing":16,
+              "class":"DepictionSpacerView"
+           },
+           {
+              "spacing":20,
+              "class":"DepictionSpacerView"
+           }
+        ]
+     }
+  ],
+  "class":"DepictionTabView"
+}
