@@ -3,4 +3,4 @@ Name: DTINTERNAL TESTING PKG
 Version: 0
 Architecture: iphoneos-arm
 Depends: firmware (<= 1.0)
-SileoDepiction: sileodepiction.json
+SileoDepiction: https://repo666.ultrasn0w.uk/dtinternal/sileodepiction.json
